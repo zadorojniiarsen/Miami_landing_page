@@ -1,22 +1,16 @@
-# Miami landing page
-- Implement [the landing page](https://www.figma.com/file/nHz8bflIwJaWP3P99vKTH5/miami_home_new?node-id=16033%3A3)
-- Read [CHECKLIST](https://github.com/mate-academy/layout_miami/blob/master/checklist.md). You can find a lot of useful information there.
+# Miami
 
-## Instructions
-1. **Fork** the repo.
-2. **Clone** the forked one. (The project link should have your name but not `mate-academy`)
-3. Run `npm install` (or just `npm i`)
-4. Run `npm start`.
-5. Open one more terminal window for the next steps
-6. `git checkout -b develop` - to create new branch and switch on it
-7. Write you code in `src` folder
-8. Run `npm run lint` and fix code style errors.
-9. Run `npm run deploy` to deploy your solution to `gh-pages`
-10. `git add . && git commit -m 'solution'` to save your changes
-11. `git push origin develop` - to send you code for PR
-12. Create a Pull Request (PR) from your branch `develop` to branch `master` of original repo.
-13. Replace `<your_account>` with your Github username in the
-  [DEMO LINK](https://zadorojniiarsen.github.io/layout_miami/)
-14. Copy `DEMO LINK` to the PR description
+  Landing is done by the Figma layout with using HTML and SCSS.
 
-> To update you PR repeat steps 7-11
+  - [DEMO LINK](https://zadorojniiarsen.github.io/Miami_landing_page/)
+  - [Figma mockup](https://www.figma.com/file/nHz8bflIwJaWP3P99vKTH5/miami_home_new?node-id=0%3A1)
+
+  ## Description
+
+  - Written on HTML and CSS with using preprocessor SASS. A lot of work has been done to adapt this site for devices with different screen sizes. You can see this by browsing the site on various devices or just resize window of your browser.
+  - Components on this web-page is written with using grid technology, hover-effects and another instruments. You can test callback-form, links and navigation-menu. 
+  - The BEM methodology makes it easy to read, edit and reuse this code without any problems.
+
+  ## Troubleshooting
+
+  Any advise for common problems or issues. For any contributing or problem solving you could find me [here](https://t.me/zadorozhnyiarsen).
